@@ -1,1 +1,4 @@
 Prvni text souboru 1.
+
+Pridani dalsiho radku.
+
